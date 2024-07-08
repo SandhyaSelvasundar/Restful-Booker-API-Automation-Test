@@ -1,0 +1,15 @@
+{
+	"id": "e5dab369-3b4a-49a5-9f70-7b3f9d3146fb",
+	"name": "Booking API",
+	"values": [
+		{
+			"key": "bookId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-06-21T14:47:35.582Z",
+	"_postman_exported_using": "Postman/11.1.14"
+}
